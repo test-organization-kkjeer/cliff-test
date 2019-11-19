@@ -1,9 +1,11 @@
 {
   "name": "test-repo",
   "jest": {
-    "verbose": true
+    "verbose": true,
+    "reporters": ["jest-standard-reporter"]
   },
   "devDependencies": {
-    "jest": "24.8.0"
+    "jest": "24.8.0",
+    "jest-standard-reporter": "^1.0.2"
   }
 }
