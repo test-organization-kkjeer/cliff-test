@@ -1,0 +1,9 @@
+{
+  "name": "test-repo",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}
