@@ -3,7 +3,7 @@
   "jest": {
     "verbose": true,
     "reporters": [
-      "jest-standard-reporter"
+      "default"
     ]
   },
   "devDependencies": {
