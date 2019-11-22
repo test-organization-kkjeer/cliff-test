@@ -1,5 +1,5 @@
 describe('monkey-tests', () => {
   it("has a basic snapshot test", () => {
-    expect('monkey').toMatchSnapshot();
+    expect('monkey 324').toMatchSnapshot();
   });
 });
